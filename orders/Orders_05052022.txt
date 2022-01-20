@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MatericalCost,LaborCost,Tax,Total
+5,Sergeant,TX,4.45,Laminate,200.00,1.75,2.10,350.00,420.00,34.27,804.27,

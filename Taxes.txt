@@ -1,0 +1,5 @@
+State,TaxRate
+TX,4.45
+WA,9.25
+KY,6.00
+CA,25.00
